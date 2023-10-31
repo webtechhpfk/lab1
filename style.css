@@ -1,0 +1,11 @@
+body {
+    background-color: blueviolet;
+}
+
+
+div {
+    margin: 0 auto;
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+}
